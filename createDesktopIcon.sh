@@ -63,6 +63,7 @@ Icon=$ICON
 Terminal=false
 Categories=Development;IDE;
 StartupNotify=true
+StartupWMClass=jetbrains-studio
 EOF
 
 # Make it executable
